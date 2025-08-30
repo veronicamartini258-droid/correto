@@ -36,13 +36,13 @@ pinout:
   uo[7]: "IN7"
 
   # Bidirectional pins
-  uio[0]: ""
-  uio[1]: ""
-  uio[2]: ""
-  uio[3]: ""
-  uio[4]: ""
-  uio[5]: ""
-  uio[6]: ""
+  uio[0]: "NAND1"
+  uio[1]: "NAND1"
+  uio[2]: "NOT1"
+  uio[3]: "NOT2"
+  uio[4]: "NOT3"
+  uio[5]: "NAND2"
+  uio[6]: "NAND2"
   uio[7]: ""
 
 # Do not change!
